@@ -1,4 +1,4 @@
-### Handwritten digit trascriber in images
+### Handwritten digit trascriber
 This is the result of my master's thesis project, which falls within the field of computer vision.
 
 In this project, the goal was to work on the recognition of handwritten digits that form a code and a date, and to store them in digital format for use in other applications, such as their insertion into a database.
@@ -29,7 +29,7 @@ As can be seen, this project aims to showcase the widest range of techniques, al
 **Note: The names of companies or business activities referenced in the report are fictitious.**
 --------------------------------------------------------------------------------------------------------------
 
-### Transcriptor de dígitos escritos a mano en imagenes.
+### Transcriptor de dígitos escritos a mano.
 
 Este es el resultado de mi proyecto fin de master, que se enmarca dentro del campo de la visión artificial. 
 
