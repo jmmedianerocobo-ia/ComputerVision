@@ -22,6 +22,6 @@ Different types of training were required for these algorithms:
 - raining with a custom dataset, such as for U-Net.
 - Fine-tuning YOLO with a custom dataset.
 - Training with a standard dataset, such as MNIST, to train the classifier.
-- 
+  
 As can be seen, this project aims to showcase the widest range of techniques, algorithms, training methods, and strategies to demonstrate the immense potential and versatility of artificial intelligence when tackling problem-solving.
 
