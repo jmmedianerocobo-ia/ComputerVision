@@ -10,7 +10,7 @@ The techniques I am referring to are the following:
 - **Semantic segmentation** to select the portion of the original image where the digits to be recognized are located.
 - **Object detection**, which made it possible to detect, within the segmented image, the pixels belonging to each digit in order to isolate them.
 - **Classification** of the areas where the digits were detected to identify the actual digits that make up the code and the target date.
-- 
+  
 For the implementation of these techniques, specific algorithms have been used:
 
 - **U-NET** for segmentation, implemented using Python and TensorFlow.
