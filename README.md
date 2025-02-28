@@ -26,8 +26,9 @@ Different types of training were required for these algorithms:
 As can be seen, this project aims to showcase the widest range of techniques, algorithms, training methods, and strategies to demonstrate the immense potential and versatility of artificial intelligence when tackling problem-solving.
 
 
-**Note: The names of companies or business activities referenced in the report are fictitious.**
---------------------------------------------------------------------------------------------------------------
+**Note: The names of companies or business activities reerenced in the report are fictitious.**
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 ### Transcriptor de dígitos escritos a mano.
 
